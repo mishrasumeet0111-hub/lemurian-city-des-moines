@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://des-moines.lemurianstudios.com/sitemap.xml
